@@ -1,5 +1,6 @@
 wp-admin/
 wp-includes/
+wp-content/themes/twentysixteen/
 wp-content/themes/twentyfifteen/
 wp-content/themes/twentyfourteen/
 wp-content/themes/twentythirteen/
@@ -22,3 +23,4 @@ wp-blog-header.php
 wp-comments-post.php
 wp-config-sample.php
 wp-config.php
+.gitignore
