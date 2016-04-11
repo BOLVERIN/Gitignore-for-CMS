@@ -6,6 +6,7 @@ wp-content/themes/twentyfourteen/
 wp-content/themes/twentythirteen/
 wp-content/uploads/
 wp-content/upgrade/
+wp-content/cache/
 wp-cron.php
 wp-links-opml.php
 wp-load.php
