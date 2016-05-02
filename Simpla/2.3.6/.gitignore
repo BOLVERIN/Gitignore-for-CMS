@@ -1,0 +1,17 @@
+ajax/
+api/
+captha/
+cgi-bin/
+clean/
+compiled/
+config/.htaccess
+files/
+js/admintooltip/
+payment/
+resize/
+simpla/
+Smarty/
+view/
+password.php
+sitemap.php
+yandex.php
