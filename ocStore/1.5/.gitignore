@@ -1,6 +1,6 @@
 /README.md
-# /index.php
-# /admin/index.php
+/index.php
+/admin/index.php
 /image/cache/
 /image/data/
 /image/flags/
@@ -16,7 +16,7 @@
 /admin/controller/catalog/information.php
 /admin/controller/catalog/manufacturer.php
 /admin/controller/catalog/option.php
-# /admin/controller/catalog/product.php
+/admin/controller/catalog/product.php
 /admin/controller/catalog/review.php
 /admin/controller/common/filemanager.php
 /admin/controller/common/footer.php
@@ -53,7 +53,7 @@
 /admin/controller/localisation/tax_rate.php
 /admin/controller/localisation/weight_class.php
 /admin/controller/localisation/zone.php
-# /catalog/view/theme/default/
+/catalog/view/theme/default/
 /catalog/view/image/
 /catalog/view/javascript/
 /system/PHPExcel/
@@ -126,8 +126,8 @@
 /admin/controller/sale/return.php
 /admin/controller/sale/voucher.php
 /admin/controller/sale/voucher_theme.php
-# /admin/controller/sale/order.php
-# /admin/controller/setting/setting.php
+/admin/controller/sale/order.php
+/admin/controller/setting/setting.php
 /admin/controller/setting/store.php
 /admin/controller/shipping/auspost.php
 /admin/controller/shipping/citylink.php
@@ -309,9 +309,9 @@
 /admin/language/english/total/voucher.php
 /admin/language/english/user/user.php
 /admin/language/english/user/user_group.php
-# /admin/language/russian/catalog/product.php
-# /admin/language/russian/russian.php
-# /admin/language/russian/setting/setting.php
+/admin/language/russian/catalog/product.php
+/admin/language/russian/russian.php
+/admin/language/russian/setting/setting.php
 /admin/language/russian/catalog/attribute.php
 /admin/language/russian/catalog/attribute_group.php
 /admin/language/russian/catalog/category.php
@@ -463,45 +463,45 @@
 /admin/language/russian/total/voucher.php
 /admin/language/russian/user/user.php
 /admin/language/russian/user/user_group.php
-# /admin/model/catalog/product.php
-# /catalog/controller/product/category.php
-# /catalog/controller/product/manufacturer.php
-# /catalog/controller/product/product.php
-# /catalog/controller/product/search.php
-# /catalog/controller/product/special.php
-# /catalog/controller/common/header.php
-# /catalog/controller/checkout/success.php
-# /catalog/controller/checkout/confirm.php
-# /catalog/controller/account/logout.php
-# /admin/view/template/setting/setting.tpl
-# /admin/view/template/catalog/product_form.tpl
-# /catalog/language/english/product/category.php
-# /catalog/language/russian/account/register.php
-# /catalog/language/russian/checkout/cart.php
-# /catalog/language/russian/checkout/manual.php
-# /catalog/language/russian/checkout/success.php
-# /catalog/language/russian/common/footer.php
-# /catalog/language/russian/common/header.php
-# /catalog/language/russian/mail/order.php
-# /catalog/language/russian/module/cart.php
-# /catalog/language/russian/payment/bank_transfer.php
-# /catalog/language/russian/payment/cheque.php
-# /catalog/language/russian/payment/cod.php
-# /catalog/language/russian/product/category.php
-# /catalog/language/russian/product/manufacturer.php
-# /catalog/language/russian/product/product.php
-# /catalog/language/russian/product/search.php
-# /catalog/language/russian/product/special.php
-# /catalog/language/russian/russian.php
-# /catalog/language/russian/shipping/flat.php
-# /catalog/language/russian/shipping/free.php
-# /catalog/language/russian/total/sub_total.php
-# /catalog/model/catalog/product.php
-# /catalog/model/checkout/order.php
-# /catalog/model/payment/bank_transfer.php
-# /catalog/model/payment/cheque.php
-# /catalog/model/payment/cod.php
-# /catalog/model/shipping/pickup.php
+/admin/model/catalog/product.php
+/catalog/controller/product/category.php
+/catalog/controller/product/manufacturer.php
+/catalog/controller/product/product.php
+/catalog/controller/product/search.php
+/catalog/controller/product/special.php
+/catalog/controller/common/header.php
+/catalog/controller/checkout/success.php
+/catalog/controller/checkout/confirm.php
+/catalog/controller/account/logout.php
+/admin/view/template/setting/setting.tpl
+/admin/view/template/catalog/product_form.tpl
+/catalog/language/english/product/category.php
+/catalog/language/russian/account/register.php
+/catalog/language/russian/checkout/cart.php
+/catalog/language/russian/checkout/manual.php
+/catalog/language/russian/checkout/success.php
+/catalog/language/russian/common/footer.php
+/catalog/language/russian/common/header.php
+/catalog/language/russian/mail/order.php
+/catalog/language/russian/module/cart.php
+/catalog/language/russian/payment/bank_transfer.php
+/catalog/language/russian/payment/cheque.php
+/catalog/language/russian/payment/cod.php
+/catalog/language/russian/product/category.php
+/catalog/language/russian/product/manufacturer.php
+/catalog/language/russian/product/product.php
+/catalog/language/russian/product/search.php
+/catalog/language/russian/product/special.php
+/catalog/language/russian/russian.php
+/catalog/language/russian/shipping/flat.php
+/catalog/language/russian/shipping/free.php
+/catalog/language/russian/total/sub_total.php
+/catalog/model/catalog/product.php
+/catalog/model/checkout/order.php
+/catalog/model/payment/bank_transfer.php
+/catalog/model/payment/cheque.php
+/catalog/model/payment/cod.php
+/catalog/model/shipping/pickup.php
 /admin/model/catalog/attribute.php
 /admin/model/catalog/attribute_group.php
 /admin/model/catalog/category.php
